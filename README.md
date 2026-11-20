@@ -1,1 +1,1 @@
-# QR-Code-Generator faltu website
+# QR-Code-Generator good website
